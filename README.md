@@ -1,6 +1,8 @@
 # Portfolio
 
-This is just a README. You will find the actual website in this link. https://souravprocoder.github.io/Portfolio/LandingPage.html
+This is just a README. You will find the actual website in this link. <br>
+
+<a href = "https://souravprocoder.github.io/Portfolio/"> Link </a>
 
 
 This is my portfolio. It has a welcoming page, a projects section, an about section and also a contact form.
