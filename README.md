@@ -2,7 +2,7 @@
 
 This is just a README. You will find the actual website in this link. <br>
 
-<a href = "https://souravprocoder.github.io/Portfolio/LandingPage.html"> Link </a>
+<a href = "https://souravprocoder.github.io/Portfolio/LandingPage.html" target="/blank"> Link </a>
 
 
 This is my portfolio. It has a welcoming page, a projects section, an about section and also a contact form.
